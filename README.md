@@ -1,6 +1,6 @@
-# HTB Web Challenge scripts
+# HackTheBox Web Challenge scripts
 
-ONLY RETIRED CHALLENGES
+(only retired challenges)
 
 **Usages:**
 
